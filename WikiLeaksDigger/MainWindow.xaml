@@ -9,7 +9,7 @@
         xmlns:viewModels="clr-namespace:WikiLeaks.ViewModels"
         xmlns:extensions1="clr-namespace:WikiLeaks.Extensions"
         mc:Ignorable="d"
-        Title="WikiLeaks Viewer" Height="738" Width="1209"   
+        Title="WikiLeaks Digger" Height="738" Width="1209"   
     >
 
     <Window.Resources>
