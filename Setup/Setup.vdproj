@@ -15,14 +15,14 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "MsmKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_022724DF125B3F4CE1BC6595309AEE43"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -34,24 +34,36 @@
         "Entry"
         {
         "MsmKey" = "8:_022724DF125B3F4CE1BC6595309AEE43"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_022724DF125B3F4CE1BC6595309AEE43"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_022724DF125B3F4CE1BC6595309AEE43"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_08E2EAD6FAC54CC18932175985325BA8"
+        "MsmKey" = "8:_08D242B52C6C9B324C32C8201504892E"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0E115210386BF2480EFC13C5290C9286"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0FC118DEA8FB4079B8975EFB0CA399EA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -63,14 +75,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_157827C178E542BC9D888C5194B62C8F"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_1AD18D3F11610477BDF63FAFFD3F1405"
-        "OwnerKey" = "8:_8D3C1D435DC83E1976A7DC0DB09E3A1C"
+        "OwnerKey" = "8:_57BDC59DE64DAD17A3D7C8607D3BE2F1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -82,25 +88,31 @@
         "Entry"
         {
         "MsmKey" = "8:_1AD18D3F11610477BDF63FAFFD3F1405"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_1AD18D3F11610477BDF63FAFFD3F1405"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_1AD18D3F11610477BDF63FAFFD3F1405"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_1AD18D3F11610477BDF63FAFFD3F1405"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1B94273DFD7B0EB972A2CA5E86BB2A80"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -124,7 +136,7 @@
         "Entry"
         {
         "MsmKey" = "8:_28CCC201C387B504C5CF4B725B5E139A"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -136,61 +148,55 @@
         "Entry"
         {
         "MsmKey" = "8:_28CCC201C387B504C5CF4B725B5E139A"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_28CCC201C387B504C5CF4B725B5E139A"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_28CCC201C387B504C5CF4B725B5E139A"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_28CCC201C387B504C5CF4B725B5E139A"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_29C4F05160E6AC76A0A9A63C95BE2D2C"
+        "MsmKey" = "8:_2E1F5B53CCAD207982BC2C7F60FD150C"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2E1F5B53CCAD207982BC2C7F60FD150C"
         "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_2E1F5B53CCAD207982BC2C7F60FD150C"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_2E1F5B53CCAD207982BC2C7F60FD150C"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_2E1F5B53CCAD207982BC2C7F60FD150C"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2E1F5B53CCAD207982BC2C7F60FD150C"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2E1F5B53CCAD207982BC2C7F60FD150C"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -208,7 +214,7 @@
         "Entry"
         {
         "MsmKey" = "8:_3B878DA8259B4F8B0C9FD5BC63DAD744"
-        "OwnerKey" = "8:_8D3C1D435DC83E1976A7DC0DB09E3A1C"
+        "OwnerKey" = "8:_57BDC59DE64DAD17A3D7C8607D3BE2F1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -220,37 +226,37 @@
         "Entry"
         {
         "MsmKey" = "8:_3B878DA8259B4F8B0C9FD5BC63DAD744"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_3B878DA8259B4F8B0C9FD5BC63DAD744"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_3B878DA8259B4F8B0C9FD5BC63DAD744"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_3B878DA8259B4F8B0C9FD5BC63DAD744"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_3B878DA8259B4F8B0C9FD5BC63DAD744"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_3C4D0B8D487AF5E23AEBD91EFAFBB5BA"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -262,7 +268,7 @@
         "Entry"
         {
         "MsmKey" = "8:_3C4D0B8D487AF5E23AEBD91EFAFBB5BA"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -280,7 +286,7 @@
         "Entry"
         {
         "MsmKey" = "8:_3D5218F1772935CA1F847AB2F5210205"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -292,19 +298,19 @@
         "Entry"
         {
         "MsmKey" = "8:_3D5218F1772935CA1F847AB2F5210205"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_3D5218F1772935CA1F847AB2F5210205"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_3D5218F1772935CA1F847AB2F5210205"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -327,20 +333,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_418DC2D3DEAB1D584DD467D43239DE47"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4232DCBE6020610A6CB13AAE5A2A80A0"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -352,7 +346,7 @@
         "Entry"
         {
         "MsmKey" = "8:_461C1DB2B05651701C52E73D9C617E7E"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -364,7 +358,7 @@
         "Entry"
         {
         "MsmKey" = "8:_461C1DB2B05651701C52E73D9C617E7E"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -400,7 +394,7 @@
         "Entry"
         {
         "MsmKey" = "8:_525026D1A539F5E053912CDE54A0C537"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -412,13 +406,13 @@
         "Entry"
         {
         "MsmKey" = "8:_525026D1A539F5E053912CDE54A0C537"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_525026D1A539F5E053912CDE54A0C537"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -429,7 +423,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_56840F246C2543E5946D6A0C13830E9A"
+        "MsmKey" = "8:_57BDC59DE64DAD17A3D7C8607D3BE2F1"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_57BDC59DE64DAD17A3D7C8607D3BE2F1"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_57BDC59DE64DAD17A3D7C8607D3BE2F1"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_58B47CC0B3D4E3F61466CB3B316870B9"
         "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -441,20 +453,26 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5D75FA08A8A24669B0EA25FDEFA76E4E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_5F28C90A8B754FFABE16BB740E642BB4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_603EDF0F1DC84FE6BC7F47C2AC6FF7E8"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -471,14 +489,38 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_67C18DB5EB89C337A828736098355243"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmKey" = "8:_641638681727440B9C6EED3DF1447902"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6809BA48D4264F7D9D46FF6F3BA852A1"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69321D9FF55AE58195C8FB0DE9AD65AE"
         "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6B24A83F2D154BFAAA68C704076393F1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6BD797022B0CFBA55E5DB5FEB690BF5B"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6BD797022B0CFBA55E5DB5FEB690BF5B"
+        "OwnerKey" = "8:_1B94273DFD7B0EB972A2CA5E86BB2A80"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -507,32 +549,14 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_7C5A2A46981B7B9A39BB2207CA124FD2"
         "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7CD8E5F05C7C4D5681D19D3E24AA8556"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7CE5680ECA4844A4811135159BF3FE4E"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_7EC770D959FB98739CE5CC07F407CA0F"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -545,30 +569,6 @@
         {
         "MsmKey" = "8:_7FD628EA6B124A4F91D3793F5291171F"
         "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_845DEBFF9726458E8D9983379CAC555C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8D3C1D435DC83E1976A7DC0DB09E3A1C"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8D3C1D435DC83E1976A7DC0DB09E3A1C"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8D3C1D435DC83E1976A7DC0DB09E3A1C"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -603,38 +603,50 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_9D1C63A5936CB862F66FBDB07E2FC126"
-        "OwnerKey" = "8:_8D3C1D435DC83E1976A7DC0DB09E3A1C"
+        "MsmKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_9D1C63A5936CB862F66FBDB07E2FC126"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_57BDC59DE64DAD17A3D7C8607D3BE2F1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_9D1C63A5936CB862F66FBDB07E2FC126"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_9D1C63A5936CB862F66FBDB07E2FC126"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_9D1C63A5936CB862F66FBDB07E2FC126"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_9D1C63A5936CB862F66FBDB07E2FC126"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9D1C63A5936CB862F66FBDB07E2FC126"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -663,26 +675,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_AA323E297F881EC4E6452A45005328FC"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AA323E297F881EC4E6452A45005328FC"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AA323E297F881EC4E6452A45005328FC"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_AAB42927F744583A716B6F8894064179"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -694,25 +688,25 @@
         "Entry"
         {
         "MsmKey" = "8:_AAB42927F744583A716B6F8894064179"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_AAB42927F744583A716B6F8894064179"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_AAB42927F744583A716B6F8894064179"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_AAB42927F744583A716B6F8894064179"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -736,7 +730,7 @@
         "Entry"
         {
         "MsmKey" = "8:_B58DFE11A5C5BB0FB8FC9992CA0CB6A0"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -748,25 +742,31 @@
         "Entry"
         {
         "MsmKey" = "8:_B58DFE11A5C5BB0FB8FC9992CA0CB6A0"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_B58DFE11A5C5BB0FB8FC9992CA0CB6A0"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_B58DFE11A5C5BB0FB8FC9992CA0CB6A0"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_B58DFE11A5C5BB0FB8FC9992CA0CB6A0"
-        "OwnerKey" = "8:_AA323E297F881EC4E6452A45005328FC"
+        "OwnerKey" = "8:_60E227A94639A3B2D8B5A9C7A5EA0899"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BD301F698F70CE37F8431F7615E8455D"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -789,14 +789,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_CE432177B350023654C5C06818E19203"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CE432177B350023654C5C06818E19203"
-        "OwnerKey" = "8:_418DC2D3DEAB1D584DD467D43239DE47"
+        "MsmKey" = "8:_C61F2213A2BB4C2E93058BA1B1935CF3"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -837,14 +831,32 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D6FE5C6AB3F2ABE2A02C35CD9A9BCFDD"
         "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_D87B61B84F1C41D4B021591782C5CC80"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D890A2725DEFDCEC5209B8AD9AFB85A5"
+        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_DD9110589754A4E535BA78B27704DF39"
-        "OwnerKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
+        "OwnerKey" = "8:_D64A90E168A04E432B3DCDAF16266D31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -856,19 +868,19 @@
         "Entry"
         {
         "MsmKey" = "8:_DD9110589754A4E535BA78B27704DF39"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_DD9110589754A4E535BA78B27704DF39"
-        "OwnerKey" = "8:_011E80158AF4C8C62029A266DDDD4614"
+        "OwnerKey" = "8:_08D242B52C6C9B324C32C8201504892E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_DD9110589754A4E535BA78B27704DF39"
-        "OwnerKey" = "8:_77F25E0B3D26FF53BC25B6F880718A9E"
+        "OwnerKey" = "8:_9CDAFF115C99B783E5F1BCE8F753B574"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -891,14 +903,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_E7315686541E606E0CD8C76C7C01CC9F"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_F94C7107387E3DC70159A4349AA8256F"
-        "OwnerKey" = "8:_FEC205091196734FA04111D4C6526FB5"
+        "OwnerKey" = "8:_0108FD8FBC750840C9E480DD47F452E8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -911,18 +917,6 @@
         {
         "MsmKey" = "8:_FCCD11543C2C159B350D35994C9E867A"
         "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FEC205091196734FA04111D4C6526FB5"
-        "OwnerKey" = "8:_41CEC38A92E94E44A480FD901B592110"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_CE432177B350023654C5C06818E19203"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1168,13 +1162,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_29C4F05160E6AC76A0A9A63C95BE2D2C"
+        "OwnerKey" = "8:_0E115210386BF2480EFC13C5290C9286"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_56840F246C2543E5946D6A0C13830E9A"
+        "OwnerKey" = "8:_58B47CC0B3D4E3F61466CB3B316870B9"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1186,7 +1180,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_418DC2D3DEAB1D584DD467D43239DE47"
+        "OwnerKey" = "8:_1B94273DFD7B0EB972A2CA5E86BB2A80"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1270,19 +1264,25 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_157827C178E542BC9D888C5194B62C8F"
+        "OwnerKey" = "8:_BD301F698F70CE37F8431F7615E8455D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4232DCBE6020610A6CB13AAE5A2A80A0"
+        "OwnerKey" = "8:_D890A2725DEFDCEC5209B8AD9AFB85A5"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_67C18DB5EB89C337A828736098355243"
+        "OwnerKey" = "8:_7EC770D959FB98739CE5CC07F407CA0F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_6BD797022B0CFBA55E5DB5FEB690BF5B"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -1303,6 +1303,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -1319,6 +1327,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
         }
     }
     "Deployable"
@@ -1348,20 +1372,20 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_011E80158AF4C8C62029A266DDDD4614"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0108FD8FBC750840C9E480DD47F452E8"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Composition.TypedParts, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:GalaSoft.MvvmLight, Version=5.3.0.19026, Culture=neutral, PublicKeyToken=e7570ab207bcb616, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_011E80158AF4C8C62029A266DDDD4614"
+                    "_0108FD8FBC750840C9E480DD47F452E8"
                     {
-                    "Name" = "8:System.Composition.TypedParts.dll"
+                    "Name" = "8:GalaSoft.MvvmLight.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:System.Composition.TypedParts.dll"
+            "SourcePath" = "8:GalaSoft.MvvmLight.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -1410,12 +1434,74 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_08E2EAD6FAC54CC18932175985325BA8"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_08D242B52C6C9B324C32C8201504892E"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\WikiLeaks.ico"
-            "TargetName" = "8:WikiLeaks.ico"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Composition.TypedParts, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_08D242B52C6C9B324C32C8201504892E"
+                    {
+                    "Name" = "8:System.Composition.TypedParts.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Composition.TypedParts.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0E115210386BF2480EFC13C5290C9286"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_0E115210386BF2480EFC13C5290C9286"
+                    {
+                    "Name" = "8:Newtonsoft.Json.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Newtonsoft.Json.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0FC118DEA8FB4079B8975EFB0CA399EA"
+            {
+            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\epstein.json"
+            "TargetName" = "8:epstein.json"
+            "Tag" = "8:"
+            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1444,37 +1530,6 @@
                     }
                 }
             "SourcePath" = "8:System.Xml.XmlSerializer.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_157827C178E542BC9D888C5194B62C8F"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:HtmlAgilityPack, Version=1.4.9.5, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_157827C178E542BC9D888C5194B62C8F"
-                    {
-                    "Name" = "8:HtmlAgilityPack.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:HtmlAgilityPack.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -1523,9 +1578,40 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1B94273DFD7B0EB972A2CA5E86BB2A80"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:MimeKit, Version=1.8.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_1B94273DFD7B0EB972A2CA5E86BB2A80"
+                    {
+                    "Name" = "8:MimeKit.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:MimeKit.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1BE9C553EDFF4BE6B5441C4D67A94DE4"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Button Next.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Button Next.png"
             "TargetName" = "8:Button Next.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -1636,37 +1722,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_29C4F05160E6AC76A0A9A63C95BE2D2C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_29C4F05160E6AC76A0A9A63C95BE2D2C"
-                    {
-                    "Name" = "8:Newtonsoft.Json.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Newtonsoft.Json.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2E1F5B53CCAD207982BC2C7F60FD150C"
             {
             "AssemblyRegister" = "3:1"
@@ -1700,7 +1755,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_39EB58DE76EC49C9993DCDB5FCE2F899"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Button Previous.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Button Previous.png"
             "TargetName" = "8:Button Previous.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -1937,7 +1992,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3E835AB29AC24351A7FC151575961686"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Calendar.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Calendar.png"
             "TargetName" = "8:Calendar.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -1969,68 +2024,6 @@
                     }
                 }
             "SourcePath" = "8:System.Diagnostics.Contracts.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_418DC2D3DEAB1D584DD467D43239DE47"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MimeKit, Version=1.8.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_418DC2D3DEAB1D584DD467D43239DE47"
-                    {
-                    "Name" = "8:MimeKit.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:MimeKit.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4232DCBE6020610A6CB13AAE5A2A80A0"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Xceed.Wpf.Toolkit, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_4232DCBE6020610A6CB13AAE5A2A80A0"
-                    {
-                    "Name" = "8:Xceed.Wpf.Toolkit.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Xceed.Wpf.Toolkit.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -2174,7 +2167,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4DEEBDB9DD9F40F7878CD17936BD50A0"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\App_Data\\default.appsettings.json"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\App_Data\\default.appsettings.json"
             "TargetName" = "8:default.appsettings.json"
             "Tag" = "8:"
             "Folder" = "8:_01AA3D1C3BD743AAA3348CDE5B0E90DE"
@@ -2194,7 +2187,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4F4D162C765C42E6BF143025AC0B11B9"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Excel.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Excel.png"
             "TargetName" = "8:Excel.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -2214,7 +2207,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4F779508632341038CEFA4500D947500"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Wikileaks.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Wikileaks.png"
             "TargetName" = "8:Wikileaks.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -2265,7 +2258,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_55885D257D4C4DBAB699BE599FCCC0F5"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Blank - Blue.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Blank - Blue.png"
             "TargetName" = "8:Blank - Blue.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -2283,14 +2276,45 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_56840F246C2543E5946D6A0C13830E9A"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_57BDC59DE64DAD17A3D7C8607D3BE2F1"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Composition.AttributedModel, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_57BDC59DE64DAD17A3D7C8607D3BE2F1"
+                    {
+                    "Name" = "8:System.Composition.AttributedModel.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Composition.AttributedModel.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_58B47CC0B3D4E3F61466CB3B316870B9"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_56840F246C2543E5946D6A0C13830E9A"
+                    "_58B47CC0B3D4E3F61466CB3B316870B9"
                     {
                     "Name" = "8:System.Windows.Interactivity.dll"
                     "Attributes" = "3:512"
@@ -2316,7 +2340,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5CF8847039374B559BEBD49D233C1AEC"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Refresh.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Refresh.png"
             "TargetName" = "8:Refresh.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -2334,29 +2358,9 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5D75FA08A8A24669B0EA25FDEFA76E4E"
-            {
-            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\epstein.json"
-            "TargetName" = "8:epstein.json"
-            "Tag" = "8:"
-            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5F28C90A8B754FFABE16BB740E642BB4"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\App_Data\\Filters\\podesta.json"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\App_Data\\Filters\\podesta.json"
             "TargetName" = "8:podesta.json"
             "Tag" = "8:"
             "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
@@ -2374,12 +2378,23 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_603EDF0F1DC84FE6BC7F47C2AC6FF7E8"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_60E227A94639A3B2D8B5A9C7A5EA0899"
             {
-            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\ChelseaClinton.json"
-            "TargetName" = "8:ChelseaClinton.json"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Composition.Runtime, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_60E227A94639A3B2D8B5A9C7A5EA0899"
+                    {
+                    "Name" = "8:System.Composition.Runtime.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Composition.Runtime.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2391,7 +2406,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_63B3879BF380306B07F2E35B0F3D1583"
@@ -2456,20 +2471,60 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_67C18DB5EB89C337A828736098355243"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_641638681727440B9C6EED3DF1447902"
+            {
+            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\bohemiangrove.json"
+            "TargetName" = "8:bohemiangrove.json"
+            "Tag" = "8:"
+            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6809BA48D4264F7D9D46FF6F3BA852A1"
+            {
+            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\hillary.json"
+            "TargetName" = "8:hillary.json"
+            "Tag" = "8:"
+            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_69321D9FF55AE58195C8FB0DE9AD65AE"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:System.Xml.ReaderWriter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_67C18DB5EB89C337A828736098355243"
+                    "_69321D9FF55AE58195C8FB0DE9AD65AE"
                     {
-                    "Name" = "8:Microsoft.Practices.ServiceLocation.dll"
+                    "Name" = "8:System.Xml.ReaderWriter.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:Microsoft.Practices.ServiceLocation.dll"
+            "SourcePath" = "8:System.Xml.ReaderWriter.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -2487,20 +2542,40 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_69321D9FF55AE58195C8FB0DE9AD65AE"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6B24A83F2D154BFAAA68C704076393F1"
+            {
+            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\Libya.json"
+            "TargetName" = "8:Libya.json"
+            "Tag" = "8:"
+            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6BD797022B0CFBA55E5DB5FEB690BF5B"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Xml.ReaderWriter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+            "AssemblyAsmDisplayName" = "8:BouncyCastle.Crypto, Version=1.8.1.0, Culture=neutral, PublicKeyToken=0e99375e54769942"
                 "ScatterAssemblies"
                 {
-                    "_69321D9FF55AE58195C8FB0DE9AD65AE"
+                    "_6BD797022B0CFBA55E5DB5FEB690BF5B"
                     {
-                    "Name" = "8:System.Xml.ReaderWriter.dll"
+                    "Name" = "8:BouncyCastle.Crypto.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:System.Xml.ReaderWriter.dll"
+            "SourcePath" = "8:BouncyCastle.Crypto.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -2642,37 +2717,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_77F25E0B3D26FF53BC25B6F880718A9E"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Composition.Hosting, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_77F25E0B3D26FF53BC25B6F880718A9E"
-                    {
-                    "Name" = "8:System.Composition.Hosting.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Composition.Hosting.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7C5A2A46981B7B9A39BB2207CA124FD2"
             {
             "AssemblyRegister" = "3:1"
@@ -2704,12 +2748,23 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7CD8E5F05C7C4D5681D19D3E24AA8556"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7EC770D959FB98739CE5CC07F407CA0F"
             {
-            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\Libya.json"
-            "TargetName" = "8:Libya.json"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_7EC770D959FB98739CE5CC07F407CA0F"
+                    {
+                    "Name" = "8:Microsoft.Practices.ServiceLocation.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Practices.ServiceLocation.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2721,27 +2776,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7CE5680ECA4844A4811135159BF3FE4E"
-            {
-            "SourcePath" = "8:..\\WikiLeaks\\App_Data\\Filters\\hillary.json"
-            "TargetName" = "8:hillary.json"
-            "Tag" = "8:"
-            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7F0D2FC5E104E082492A4ABD6E6B8F84"
@@ -2777,7 +2812,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7FD628EA6B124A4F91D3793F5291171F"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\M4A.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\M4A.png"
             "TargetName" = "8:M4A.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -2795,60 +2830,9 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_845DEBFF9726458E8D9983379CAC555C"
-            {
-            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\bohemiangrove.json"
-            "TargetName" = "8:bohemiangrove.json"
-            "Tag" = "8:"
-            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8D3C1D435DC83E1976A7DC0DB09E3A1C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Composition.AttributedModel, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_8D3C1D435DC83E1976A7DC0DB09E3A1C"
-                    {
-                    "Name" = "8:System.Composition.AttributedModel.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Composition.AttributedModel.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8D53A1C777D14863B440AF83A29257E5"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Video.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Video.png"
             "TargetName" = "8:Video.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -2961,7 +2945,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9B06E55BB6E04B10A2E25CC444733A1C"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\App_Data\\Filters\\soros.json"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\App_Data\\Filters\\soros.json"
             "TargetName" = "8:soros.json"
             "Tag" = "8:"
             "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
@@ -2977,6 +2961,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9CDAFF115C99B783E5F1BCE8F753B574"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Composition.Hosting, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9CDAFF115C99B783E5F1BCE8F753B574"
+                    {
+                    "Name" = "8:System.Composition.Hosting.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Composition.Hosting.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9D1C63A5936CB862F66FBDB07E2FC126"
@@ -3043,7 +3058,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A36C98808D8049EFA8F76E06D9B04909"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\PDF.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\PDF.png"
             "TargetName" = "8:PDF.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -3106,37 +3121,6 @@
                     }
                 }
             "SourcePath" = "8:System.Collections.Concurrent.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AA323E297F881EC4E6452A45005328FC"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Composition.Runtime, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_AA323E297F881EC4E6452A45005328FC"
-                    {
-                    "Name" = "8:System.Composition.Runtime.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Composition.Runtime.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -3309,9 +3293,40 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BD301F698F70CE37F8431F7615E8455D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HtmlAgilityPack, Version=1.4.9.5, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_BD301F698F70CE37F8431F7615E8455D"
+                    {
+                    "Name" = "8:HtmlAgilityPack.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:HtmlAgilityPack.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BDBE9B21888441DFACBF9D6B990AB3DD"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\App_Data\\Filters\\soros_companies.json"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\App_Data\\Filters\\soros_companies.json"
             "TargetName" = "8:soros_companies.json"
             "Tag" = "8:"
             "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
@@ -3391,23 +3406,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CE432177B350023654C5C06818E19203"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C61F2213A2BB4C2E93058BA1B1935CF3"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:BouncyCastle.Crypto, Version=1.8.1.0, Culture=neutral, PublicKeyToken=0e99375e54769942"
-                "ScatterAssemblies"
-                {
-                    "_CE432177B350023654C5C06818E19203"
-                    {
-                    "Name" = "8:BouncyCastle.Crypto.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:BouncyCastle.Crypto.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:C:\\temp\\Wikileaks\\Podesta\\App_Data\\Filters\\ChelseaClinton.json"
+            "TargetName" = "8:ChelseaClinton.json"
             "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Folder" = "8:_1A16027C51264997B5BA5E63BD856EA7"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3419,12 +3423,12 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CEDB8987344B45D9ADA0BB30F5F8A14E"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\DAT.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\DAT.png"
             "TargetName" = "8:DAT.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -3537,7 +3541,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D6310965518940DAAB6E83575EE3EAD9"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Unknown.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Unknown.png"
             "TargetName" = "8:Unknown.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -3557,7 +3561,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D63A618A6E8541ADA28A33FA2F625CCE"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\Resources\\Microsoft Word.png"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\Microsoft Word.png"
             "TargetName" = "8:Microsoft Word.png"
             "Tag" = "8:"
             "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
@@ -3575,6 +3579,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D64A90E168A04E432B3DCDAF16266D31"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Composition.Convention, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D64A90E168A04E432B3DCDAF16266D31"
+                    {
+                    "Name" = "8:System.Composition.Convention.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Composition.Convention.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D6FE5C6AB3F2ABE2A02C35CD9A9BCFDD"
             {
             "AssemblyRegister" = "3:1"
@@ -3589,6 +3624,57 @@
                     }
                 }
             "SourcePath" = "8:System.Runtime.Serialization.Json.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D87B61B84F1C41D4B021591782C5CC80"
+            {
+            "SourcePath" = "8:..\\WikiLeaksDigger\\Resources\\WikiLeaks.ico"
+            "TargetName" = "8:WikiLeaks.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_4853E8A99CF84567B89FB7FE32B73592"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D890A2725DEFDCEC5209B8AD9AFB85A5"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Xceed.Wpf.Toolkit, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D890A2725DEFDCEC5209B8AD9AFB85A5"
+                    {
+                    "Name" = "8:Xceed.Wpf.Toolkit.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Xceed.Wpf.Toolkit.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -3730,37 +3816,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E7315686541E606E0CD8C76C7C01CC9F"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Composition.Convention, Version=1.0.30.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_E7315686541E606E0CD8C76C7C01CC9F"
-                    {
-                    "Name" = "8:System.Composition.Convention.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Composition.Convention.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F94C7107387E3DC70159A4349AA8256F"
             {
             "AssemblyRegister" = "3:1"
@@ -3806,37 +3861,6 @@
                     }
                 }
             "SourcePath" = "8:System.Reflection.Primitives.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FEC205091196734FA04111D4C6526FB5"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GalaSoft.MvvmLight, Version=5.3.0.19026, Culture=neutral, PublicKeyToken=e7570ab207bcb616, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_FEC205091196734FA04111D4C6526FB5"
-                    {
-                    "Name" = "8:GalaSoft.MvvmLight.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:GalaSoft.MvvmLight.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
@@ -3977,7 +4001,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Wikileaks Digger"
         "ProductCode" = "8:{C3238229-FC82-41A3-ABF6-89E584BB5646}"
-        "PackageCode" = "8:{06B6F354-1819-4385-8422-0FF632EFF0ED}"
+        "PackageCode" = "8:{A3F8BE25-4008-4972-9C19-E097C2FC60BE}"
         "UpgradeCode" = "8:{35494C54-0876-4D5D-A6C4-9DFFB912EBBC}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -3998,7 +4022,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:1"
+        "TargetPlatform" = "3:0"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
@@ -4108,7 +4132,7 @@
             "Target" = "8:_41CEC38A92E94E44A480FD901B592110"
             "Folder" = "8:_D78926A5E2A2479583A13B67E4516101"
             "WorkingFolder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Icon" = "8:_08E2EAD6FAC54CC18932175985325BA8"
+            "Icon" = "8:_D87B61B84F1C41D4B021591782C5CC80"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_64E2648BEA2F47BDA6DD0836CEC95F87"
@@ -4122,7 +4146,7 @@
             "Target" = "8:_41CEC38A92E94E44A480FD901B592110"
             "Folder" = "8:_8F87400424814D75A092442E9B73B2E4"
             "WorkingFolder" = "8:_CD5B59579DC44561BCBD918EC8039B65"
-            "Icon" = "8:_08E2EAD6FAC54CC18932175985325BA8"
+            "Icon" = "8:_D87B61B84F1C41D4B021591782C5CC80"
             "Feature" = "8:"
             }
         }
@@ -4526,7 +4550,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_41CEC38A92E94E44A480FD901B592110"
             {
-            "SourcePath" = "8:..\\WikiLeaks\\obj\\Release\\WikiLeaks.exe"
+            "SourcePath" = "8:..\\WikiLeaksDigger\\obj\\Release\\WikiLeaks.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CD5B59579DC44561BCBD918EC8039B65"

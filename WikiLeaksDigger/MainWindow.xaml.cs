@@ -821,6 +821,7 @@ namespace WikiLeaks
             if (int.TryParse(this.txtLeakEndIdSetting.Text, out i))
                 _application.Settings.SearchEndId = i;
 
+            #region Cache Settins
             string tmp = this.txtCachFolder.Text.Trim();
             try
             {
@@ -833,8 +834,9 @@ namespace WikiLeaks
                 return;
             }
             _application.Settings.CacheFolder = tmp;
+            #endregion
 
-
+            #region Search Result settings
             tmp = this.txtSearchResultsFolder.Text.Trim();
             try
             {
@@ -847,7 +849,9 @@ namespace WikiLeaks
                 return;
             }
             _application.Settings.ResultsFolder = tmp;
+            #endregion
 
+            #region Filter settings
             tmp = this.txtFilterFolder.Text.Trim();
             try
             {
@@ -859,7 +863,11 @@ namespace WikiLeaks
                 MessageBox.Show("Could not create filter folder. " + ex.Message);
                 return;
             }
+            _application.Settings.FilterFolder = tmp;
 
+            #endregion
+
+            #region Attachments settings
             tmp = this.txtAttachemtsFolder.Text.Trim();
             try
             {
@@ -873,7 +881,9 @@ namespace WikiLeaks
             }
 
             _application.Settings.AttachemtsFolder = tmp;
+            #endregion
 
+            #region Agent Settings
             if (!chkUseAgentSettings.IsChecked.Value)
             {
                 _application.Settings.UseAgentSearch = false;
@@ -925,6 +935,7 @@ namespace WikiLeaks
             }
             _application.Settings.AgentSearchFolder = tmp;
 
+          
 
             tmp = this.txtAgentSearchFileType.Text.Trim();
             try
@@ -942,7 +953,7 @@ namespace WikiLeaks
             }
             _application.Settings.SearchFileType = tmp;
 
-
+            #endregion
 
             _application.SaveSettings("");
         }
