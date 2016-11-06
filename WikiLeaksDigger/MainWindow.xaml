@@ -57,7 +57,7 @@
             <TreeView x:Name="tvwResultsFolder" SelectedItemChanged="tvwResultsFolder_SelectedItemChanged"  Visibility="Hidden" Grid.Column="1" HorizontalAlignment="Left" Height="20" Margin="250,36,0,-52" Grid.Row="4" VerticalAlignment="Top" Width="15"/>
             <TreeView x:Name="tvwCacheFolder" SelectedItemChanged="tvwCacheFolder_SelectedItemChanged" Visibility="Hidden" Grid.Column="1" HorizontalAlignment="Left" Height="19" Margin="5,587,0,-564" Grid.Row="4" VerticalAlignment="Top" Width="18" RenderTransformOrigin="-0.111,0.947"/>
             <Label x:Name="lblEmailSearchProgress" Content="Email Search" Grid.Column="1" HorizontalAlignment="Left" Margin="-12,613,0,-556" Grid.Row="4" VerticalAlignment="Top"/>
-            <Button x:Name="btnRefreshTreeView" Click="btnRefreshTreeView_Click" Content="Refresh" Grid.Column="1" HorizontalAlignment="Left" Margin="155,47,0,0" Grid.Row="4" VerticalAlignment="Top" Width="75"/>
+            <Button x:Name="btnRefreshTreeView" Click="btnRefreshTreeView_Click" Content="Refresh" Grid.Column="1" HorizontalAlignment="Left" Margin="155,45,0,0" Grid.Row="4" VerticalAlignment="Top" Width="75"/>
 
         </Grid>
         <ListBox Visibility="Hidden" Grid.Row="2" ItemsSource="{Binding Attachments}" Grid.ColumnSpan="2" >
